@@ -2,7 +2,7 @@
 
 Welcome to the official landing page for **SportShark** – a clean, responsive static website built using HTML and CSS. It’s hosted for free using GitHub Pages.
 
-🌐 **Live Demo**: [https://<yourusername>.github.io](https://<yourusername>.github.io)  
+🌐 **Live Demo**: [https://neelansh0725.github.io/Task5-Neel/](https://neelansh0725.github.io/Task5-Neel/)  
 > Replace `<yourusername>` with your actual GitHub username after deployment.
 
 ---
